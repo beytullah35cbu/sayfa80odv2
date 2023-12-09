@@ -1,0 +1,15 @@
+/Users/beytullah/Projects/sayfa80odev/sayfa80odev/bin/Debug/net7.0/sayfa80odev
+/Users/beytullah/Projects/sayfa80odev/sayfa80odev/bin/Debug/net7.0/sayfa80odev.deps.json
+/Users/beytullah/Projects/sayfa80odev/sayfa80odev/bin/Debug/net7.0/sayfa80odev.runtimeconfig.json
+/Users/beytullah/Projects/sayfa80odev/sayfa80odev/bin/Debug/net7.0/sayfa80odev.dll
+/Users/beytullah/Projects/sayfa80odev/sayfa80odev/bin/Debug/net7.0/sayfa80odev.pdb
+/Users/beytullah/Projects/sayfa80odev/sayfa80odev/obj/Debug/net7.0/sayfa80odev.csproj.AssemblyReference.cache
+/Users/beytullah/Projects/sayfa80odev/sayfa80odev/obj/Debug/net7.0/sayfa80odev.GeneratedMSBuildEditorConfig.editorconfig
+/Users/beytullah/Projects/sayfa80odev/sayfa80odev/obj/Debug/net7.0/sayfa80odev.AssemblyInfoInputs.cache
+/Users/beytullah/Projects/sayfa80odev/sayfa80odev/obj/Debug/net7.0/sayfa80odev.AssemblyInfo.cs
+/Users/beytullah/Projects/sayfa80odev/sayfa80odev/obj/Debug/net7.0/sayfa80odev.csproj.CoreCompileInputs.cache
+/Users/beytullah/Projects/sayfa80odev/sayfa80odev/obj/Debug/net7.0/sayfa80odev.dll
+/Users/beytullah/Projects/sayfa80odev/sayfa80odev/obj/Debug/net7.0/refint/sayfa80odev.dll
+/Users/beytullah/Projects/sayfa80odev/sayfa80odev/obj/Debug/net7.0/sayfa80odev.pdb
+/Users/beytullah/Projects/sayfa80odev/sayfa80odev/obj/Debug/net7.0/sayfa80odev.genruntimeconfig.cache
+/Users/beytullah/Projects/sayfa80odev/sayfa80odev/obj/Debug/net7.0/ref/sayfa80odev.dll
